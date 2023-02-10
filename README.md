@@ -41,7 +41,7 @@ education:
 
 fields_of_interests:
   [
-    "Mobil Development",
+    "Mobile Development",
     "Web Development",
     "UI/UX",
     "Data Science",
@@ -56,8 +56,8 @@ technical_background:
   ]
   
 currently_learning: ["Docker, Kubernetes, AWS"]
-2022 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+2023 Goals: ["Create 20+ Projects, write 20+ articles and learn at least 5 new Technologies."]
+hobbies: ["Badminton", "Running", "Reading", "Comedy", "Gaming"]
 ```
   
 ---  
@@ -89,7 +89,7 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/algol007/algol007/blob/output/github-contribution-grid-snake.svg)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
